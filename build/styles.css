@@ -1,0 +1,9 @@
+.searchbox__field {
+  width: 300px;
+  height: 20px;
+  padding-left: 5px;
+
+  border-radius: 5px;
+  border:1px solid #ccc;
+  box-shadow: none;
+}
